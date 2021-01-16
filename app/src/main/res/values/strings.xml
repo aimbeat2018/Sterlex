@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sterlex</string>
+
+    <string name="facebook_app_id">3219394314815154</string>
+    <string name="fb_login_protocol_scheme">fb3x219394314815154</string>
+
+    <string name="term"><u>Terms &amp; Conditions</u></string>
+    <string name="account"><u>Sign Up</u></string>
+    <string name="otp_error">Login credentials are not found.</string>
+    <string name="here">Now you can Login <u><b>here</b></u>.</string>
+    <string name="runtime_permissions_txt">Runtime Permission Error</string>
+    <string name="registerhere">Now you can Register <u><b>here</b></u>.</string>
+
+    <string name="privacy1">Please read this privacy policy carefully. By accessing or using <b>Sterlex Basket</b> website, <b>Sterlex Basket</b> acknowledge that user have read,
+        understand, and agrees to be bound to all the terms of this privacy policy and <b>Sterlex Basket</b> website terms of use.
+        if user does not agree to these terms, exit this page and do not access or use the website.</string>
+
+    <string name="privacy2"><b>Personal Information: </b> </string>
+
+    <string name="privacy3">User name, address, phone number, email address,password,
+        billing and debit card/credit card Information, order history, feedback,IP address and location, digital device name, type and configuration,
+        details relating to user\'s download of Publications via the Service (including details relating to the time of the download,
+        any interruptions, and the success or failure of the downloads), the URL from which user accessed
+        the Website, demographic Information, and other such \'Personal Information\'.</string>
+    <string name="privacy4"><b>General Information: </b></string>
+
+    <string name="privacy5">Sterlex Basket may also receive more general Information from user as a result of user\'s visits to, and use of, the Website. This general Information does not identify user personally,and can include Information such as user\'s IP address, the length of time user spend on the Website,
+        user\'s browsing history, and other such \'General Information\'. This general Information may also include history relating to the transactions made by user on the Website.</string>
+
+    <string name="privacy6"><b>How we protect your information: </b> </string>
+
+    <string name="privacy7">We adopt appropriate data collection, storage and processing practices and security measures to protect against
+        unauthorized access, alteration, disclosure or destruction of your personal information,
+        username, password, transaction information and data stored on our Site.</string>
+
+    <string name="returnpolicy">Should the product you have purchased from <b>Sterlex Basket</b> is faulty, damaged, inedible or defective,
+        We will happily refund the purchase price using your original payment method or exchange the product.
+The <b>Sterlex Basket</b> reserves the right to have the product assessed for acceptable quality prior to providing you with a suitable remedy.
+        To make a claim under our Returns Policy, you must provide us with a valid receipt and notify us within 24 hours of purchase.
+        The staff member handling your request will advise if you need to return the item back to the store.
+        Any cost incurred by you in bringing the item back to the store, will be borne by you.
+</string>
+
+    <string name="aboutus"><b>Sterlex Basket</b> allows you to walk away from the drudgery of grocery shopping and welcome an easy relaxed way of browsing and shopping for groceries.
+        Discover new products and shop for all your food and grocery needs from the comfort of your home or office.
+        No more getting stuck in traffic jams, paying for parking, standing in long queues and carrying heavy bags
+        – get everything you need, when you need, right at your doorstep.
+        Food shopping online is now easy as every product on your monthly shopping list,
+        is now available online at <b>Sterlex Basket</b> App., India’s best online grocery App.</string>
+
+</resources>
